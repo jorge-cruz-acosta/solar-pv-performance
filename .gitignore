@@ -32,14 +32,7 @@ $RECYCLE.BIN/
 .Trash-*
 
 
-.vscode/*
-.vscode
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
-.idea/
+.vscode/
 
 
 __pycache__/
