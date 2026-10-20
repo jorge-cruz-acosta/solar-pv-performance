@@ -66,3 +66,5 @@ data/processed/*
 *.hdf5
 *.parquet
 *.xlsx
+
+package-lock.json
